@@ -17,7 +17,7 @@ void main() {
 
   Bloc.observer = MyBlocObserver();
 
-  Intl.defaultLocale = 'ru_RU';
+  Intl.defaultLocale = 'en_US';
 
   runApp(App());
 }

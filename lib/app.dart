@@ -126,7 +126,7 @@ class _AppState extends State<App> with WidgetsBindingObserver {
                   GlobalCupertinoLocalizations.delegate,
                 ],
                 supportedLocales: const [
-                  Locale('ru'),
+                  Locale('en'),
                 ],
                 home: state.isNotReady
                     ? const SplashScreen()

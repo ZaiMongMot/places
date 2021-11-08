@@ -50,7 +50,7 @@ class MockPlaceRepository extends PlaceRepository {
         photos: const [
           'https://cdn1.flamp.ru/535fa22fe89271aeafa4778c6f7d6933_600_600.jpg',
         ],
-        description: 'Кафе-кондитерская.',
+        description: 'Coffee-кондитерская.',
         type: PlaceType.cafe,
       ),
       PlaceBase(

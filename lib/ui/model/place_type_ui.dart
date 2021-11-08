@@ -14,7 +14,7 @@ class PlaceTypeUi {
   String get lowerCaseName => name.toLowerCase();
 
   static const _toName = {
-    PlaceType.cafe: 'Кафе',
+    PlaceType.cafe: 'Coffee',
     PlaceType.hotel: 'Гостиница',
     PlaceType.museum: 'Музей',
     PlaceType.park: 'Парк',
